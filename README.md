@@ -58,4 +58,5 @@ src/
 ├── pages/             # Main page components (Brands, Models, GuitarDetails)
 ├── apollo/            # GraphQL queries and client setup
 └── context/           # Language context
-```
+...
+
